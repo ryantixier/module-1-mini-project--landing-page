@@ -16,6 +16,8 @@ As a client, I want...
 ... the landing page to have a polished and accessible UI
 
 
+
+
 ## ACCEPTANCE CRITERIA
 It is done when...
 
@@ -27,7 +29,7 @@ It is done when...
 
 ... the page uses a single font and font family for all text.
 
-... the page uses at least two heading elements (<h1> through <h6>).
+... the page uses at least two heading elements h1 through h6.
 
 ... the header is fixed to the top of the page on scroll.
 
