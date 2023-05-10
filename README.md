@@ -1,8 +1,9 @@
 # Module 1 Mini-Project: Landing-Page
+
 Mini-project for Module 1 of DU's Full-Stack web development program.
 
-
 ## USER STORY
+
 As a client, I want...
 
 ... to view a single webpage that collects a visitor's contact information.
@@ -15,10 +16,8 @@ As a client, I want...
 
 ... the landing page to have a polished and accessible UI
 
-
-
-
 ## ACCEPTANCE CRITERIA
+
 It is done when...
 
 ... the page uses semantic HTML elements.
